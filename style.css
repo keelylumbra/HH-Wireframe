@@ -34,17 +34,17 @@ body {
   			margin: 10px 10px 10px 10px;
   			color: #777;
   			align-content: center;
-  			padding-bottom: 10px;
+  			padding-bottom: 1px;
 		}
 
 		aside {
 			background-color: #ebebeb;
   			float: left;
  			margin: 100px;
-  			width: 540px;
+  			width: 400px;
   			margin: 5px 20px 80px 20px;
 			text-align: center;
-			height: 145px;
+			height: 120px;
 			padding-bottom: 185px;
 			border-color: #777;
 			border-left: 20px;
@@ -54,7 +54,7 @@ body {
 
 		footer {
 			background-color: #ebebeb;
-			margin: 390px 20px 80px 20px;
+			margin: 350px 20px 80px 20px;
 			text-align: center;
 			width: 960px;
 			height: 80px;
@@ -67,7 +67,7 @@ body {
 			text-align: center;
 			background-color: #ebebeb;
 			margin: 5px 0px 0px 20px;
-			width: 400px;
+			width: 540px;
 			padding: 20px, 0px, 20px, 0px;
 			color: #777;
 
